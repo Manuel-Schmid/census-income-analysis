@@ -19,4 +19,7 @@ wheels/
 .DS_Store
 
 # Editor
-.vscode/
+.vscode
+
+# reference Notebooks
+src/statistics_project/reference_notebooks/
