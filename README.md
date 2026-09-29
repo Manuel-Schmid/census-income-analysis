@@ -1,5 +1,8 @@
-## Census-Income (KDD) Analysis
+## Census-Income (KDD) Analyse
 
-Statistical analysis of the [Census-Income (KDD)](https://archive.ics.uci.edu/dataset/117/census+income+kdd) dataset from the UCI Machine Learning Repository. The dataset contains weighted census data extracted from the 1994 and 1995 Current Population Surveys conducted by the U.S. Census Bureau, is has 299,285 instances across 41 features.
+Der Datensatz [Census-Income (KDD)](https://archive.ics.uci.edu/dataset/117/census+income+kdd) enthält demografische und arbeitsbezogene US-Volkszählungsdaten aus den Jahren 1994 und 1995, die von dem U.S. Census Bureau erhoben wurden. Er wird in der Informatik und im Bereich Machine Learning oft als Benchmark-Datenbank genutzt, um vorherzusagen, ob das Einkommen einer Person über oder unter 50'000 USD liegt.
 
-This project analyzes the data through statistical methods.
+### Bedeutung KDD
+KDD steht für Knowledge Discovery in Databases. Es bezeichnet den gesamthaften, wissenschaftlichen Prozess des Findens von nützlichen Mustern und Erkenntnissen in grossen Datenmengen.
+
+Dieses Projekt analysiert die Daten mithilfe statistischen Methoden.
