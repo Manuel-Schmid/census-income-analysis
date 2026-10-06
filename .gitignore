@@ -23,3 +23,6 @@ wheels/
 
 # reference Notebooks
 src/statistics_project/reference_notebooks/
+
+# large data files
+data/
